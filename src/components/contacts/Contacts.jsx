@@ -3,15 +3,15 @@ import "./contacts.css"
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 
-const Contacts = () => {
-    const form = useRef();
+// const Contacts = () => {
+//     const form = useRef();
 
-  const sendEmail = (e) => {
-    e.preventDefault();
+//   const sendEmail = (e) => {
+//     e.preventDefault();
 
-    emailjs.sendForm('service_nahqfjd', 'template_dxlsf68', form.current, 'xuiGIE7feVpdLPjYE')
-      e.target.reset()
-  };
+//     emailjs.sendForm('service_nahqfjd', 'template_dxlsf68', form.current, 'xuiGIE7feVpdLPjYE')
+//       e.target.reset()
+//   };
 
   return (
       <section className='contact section' id='contact'>
@@ -57,8 +57,9 @@ const Contacts = () => {
 
               <div className='contact__content'>
                   <h3 className='contact__title'>Write me your project</h3>
-
-                  <form ref={form} onSubmit={sendEmail} className='contact__form'>
+                  {/* onSubmit={sendEmail}  */}
+                  {/* ref={form} */}
+                  <form className='contact__form'>
                       <div className='contact__form-div'>
                           <label className='contact__form-tag'>Name</label>
                           <input className='contact__form-input' type='text' name='name' placeholder='Type your name' />
@@ -99,6 +100,6 @@ const Contacts = () => {
           </div>
     </section>
   )
-}
+
 
 export default Contacts
