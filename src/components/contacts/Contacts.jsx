@@ -3,7 +3,7 @@ import "./contacts.css"
 import { useRef } from 'react';
 // import emailjs from '@emailjs/browser';
 
-// const Contacts = () => {
+const Contacts = () => {
 //     const form = useRef();
 
 //   const sendEmail = (e) => {
