@@ -100,6 +100,6 @@ const Contacts = () => {
           </div>
     </section>
   )
-
+}
 
 export default Contacts
