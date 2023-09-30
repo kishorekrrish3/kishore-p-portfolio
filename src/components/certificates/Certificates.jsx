@@ -51,12 +51,6 @@ const Certificates = () => {
                   <h3 className='cert__name'>Microsoft Azure Fundamentals</h3>
                   <p className='cert__platform'>Microsoft Learn</p>
               </div>
-            
-              <div className='cert__box'>
-                  <img src={GuviPython} alt='GuviPython' className='cert__img' />
-                  <h3 className='cert__name guvi'>Python</h3>
-                  <p className='cert__platform'>GUVI</p>
-              </div>
 
               <div className='cert__box'>
                   <img src={ML} alt='ML' className='cert__img' />
@@ -94,13 +88,20 @@ const Certificates = () => {
                   <p className='cert__platform'>Zero to Mastery - Udemy</p>
               </div>
 
+
               <div className='cert__box'>
+                  <img src={GuviPython} alt='GuviPython' className='cert__img' />
+                  <h3 className='cert__name guvi'>Python</h3>
+                  <p className='cert__platform'>GUVI</p>
+              </div>
+
+              {/* <div className='cert__box'>
                   <img src={Python} alt='Python' className='cert__img' />
                   <h3 className='cert__name'>Python Programming for Beginners</h3>
                   <p className='cert__platform'>Udemy</p>
-              </div>
-
-              <div className='cert__box'>
+              </div> */}
+              
+              {/* <div className='cert__box'>
                   <img src={PythonBasic} alt='PythonBasic' className='cert__img' />
                   <h3 className='cert__name'>Python Basic</h3>
                   <p className='cert__platform'>HackerRank</p>
@@ -110,7 +111,7 @@ const Certificates = () => {
                   <img src={CSS} alt='CSS' className='cert__img' />
                   <h3 className='cert__name'>CSS</h3>
                   <p className='cert__platform'>HackerRank</p>
-              </div>
+              </div> */}
 
               <div className='cert__box'>
                   <img src={Dataxact} alt='Dataxact' className='cert__img' />
@@ -124,7 +125,7 @@ const Certificates = () => {
                   <p className='cert__platform'>Hacklah</p>
               </div>
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={Business} alt='Business' className='cert__img' />
                   <h3 className='cert__name'>Global Business Trends and Oppurtunities - Webinar</h3>
                   <p className='cert__platform'>VITFAM - VIT Chennai</p>
@@ -134,7 +135,7 @@ const Certificates = () => {
                   <img src={Network} alt='Network' className='cert__img' />
                   <h3 className='cert__name'>Your Network is Your Net-worth - Webinar</h3>
                   <p className='cert__platform'>VITFAM - VIT Chennai</p>
-              </div>
+              </div> */}
 
               <div className='cert__box'>
                   <img src={PythonML} alt='PythonML' className='cert__img' />
@@ -142,7 +143,7 @@ const Certificates = () => {
                   <p className='cert__platform'>Great Learning</p>
               </div>
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={PythonFundamentals} alt='PythonFundamentals' className='cert__img' />
                   <h3 className='cert__name'>Python Fundamentals</h3>
                   <p className='cert__platform'>Great Learning</p>
@@ -152,13 +153,13 @@ const Certificates = () => {
                   <img src={C} alt='C' className='cert__img' />
                   <h3 className='cert__name'>C for Beginners</h3>
                   <p className='cert__platform'>Great Learning</p>
-              </div>
+              </div> */}
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={Blockchain} alt='Blockchain' className='cert__img' />
                   <h3 className='cert__name'>Blockchain Developer Guide - Webinar</h3>
                   <p className='cert__platform'>CodeDamn</p>
-              </div>
+              </div> */}
 
               <div className='cert__box'>
                   <img src={HTMLCSS} alt='HTMLCSS' className='cert__img' />
@@ -184,29 +185,29 @@ const Certificates = () => {
                   <p className='cert__platform'>CodeDamn</p>
               </div>
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={Devtools} alt='Devtools' className='cert__img' />
                   <h3 className='cert__name'>Chrome DevTools Course</h3>
                   <p className='cert__platform'>CodeDamn</p>
-              </div>
+              </div> */}
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={Git} alt='Git' className='cert__img' />
                   <h3 className='cert__name'>Git Masterclass</h3>
                   <p className='cert__platform'>CodeDamn</p>
-              </div>
+              </div> */}
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={Internet} alt='Internet' className='cert__img' />
                   <h3 className='cert__name'>Learn the basics of Web - Internet Fundamentals</h3>
                   <p className='cert__platform'>CodeDamn</p>
-              </div>
+              </div> */}
 
-              <div className='cert__box'>
+              {/* <div className='cert__box'>
                   <img src={NPM} alt='NPM' className='cert__img' />
                   <h3 className='cert__name'>Learn NPM - Node Package Manager Complete Course</h3>
                   <p className='cert__platform'>CodeDamn</p>
-              </div>
+              </div> */}
 
               <div className='cert__box'>
                   <img src={YAML} alt='YAML' className='cert__img' />

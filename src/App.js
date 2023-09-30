@@ -10,6 +10,7 @@ import Certificates from './components/certificates/Certificates';
 import Contacts from './components/contacts/Contacts';
 import Footer from './components/footer/Footer';
 import Scrollup from './components/scrollup/Scrollup';
+import Badges from './components/badges/Badges';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Skills />
         <Services />
         <Qualification />
+        <Badges />
         <Certificates />
         <Contacts />
       </main>
