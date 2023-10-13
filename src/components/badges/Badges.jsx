@@ -56,3 +56,5 @@ const Badges = () => {
 }
 
 export default Badges
+
+
