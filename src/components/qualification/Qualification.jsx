@@ -213,44 +213,6 @@ const Qualification = () => {
                           </div>
                       </div>
 
-                      {/* ANIMATION */}
-
-                      <div className='qualification__data'>
-                          <div>
-                              <h3 className='qualification__title'>Design Team Member</h3>
-                              <span className='qualification__subtitle'>Animation Club<br />VIT Chennai</span>
-                              <div className='qualification__calender'>
-                                  <i className='uil uil-calender-alt'></i>
-                                    Mar 2023 - Present
-                              </div>
-                          </div>
-
-                          <div>
-                              <span className='qualification__rounder'></span>
-                              <span className='qualification__line'></span>
-                          </div>
-                      </div>
-
-                      {/* FYI */}
-
-                      <div className='qualification__data'>
-                          <div></div>
-                          <div>
-                              <span className='qualification__rounder'></span>
-                              <span className='qualification__line'></span>
-                          </div>
-
-                          <div>
-                              <h3 className='qualification__title'>Design Team Member</h3>
-                              <span className='qualification__subtitle'>Fraternity of Young Innovators Club -FYI<br />VIT Chennai</span>
-                              <div className='qualification__calender'>
-                                  <i className='uil uil-calender-alt'></i>
-                                  Apr 2023- Present
-                              </div>
-                          </div>
-
-                          
-                      </div>
 
                       {/* AATM */}
 
@@ -268,27 +230,6 @@ const Qualification = () => {
                               <span className='qualification__rounder'></span>
                               <span className='qualification__line'></span>
                           </div>
-                      </div>
-
-                      {/* TREKKING */}
-
-                      <div className='qualification__data'>
-                          <div></div>
-                          <div>
-                              <span className='qualification__rounder'></span>
-                              <span className='qualification__line'></span>
-                          </div>
-
-                          <div>
-                              <h3 className='qualification__title'>Design Team Member</h3>
-                              <span className='qualification__subtitle'>Trekking Club<br />VIT Chennai</span>
-                              <div className='qualification__calender'>
-                                  <i className='uil uil-calender-alt'></i>
-                                  Jun 2023 - Present
-                              </div>
-                          </div>
-
-                          
                       </div>
 
                       {/* VITC VAAZHKAI */}
@@ -385,6 +326,45 @@ const Qualification = () => {
                           
                       </div>
 
+                      {/* ANIMATION */}
+
+                      <div className='qualification__data'>
+                          <div>
+                              <h3 className='qualification__title'>Design Team Member</h3>
+                              <span className='qualification__subtitle'>Animation Club<br />VIT Chennai</span>
+                              <div className='qualification__calender'>
+                                  <i className='uil uil-calender-alt'></i>
+                                    Mar 2023 - Oct 2023
+                              </div>
+                          </div>
+
+                          <div>
+                              <span className='qualification__rounder'></span>
+                              <span className='qualification__line'></span>
+                          </div>
+                      </div>
+
+                      {/* FYI */}
+
+                      <div className='qualification__data'>
+                          <div></div>
+                          <div>
+                              <span className='qualification__rounder'></span>
+                              <span className='qualification__line'></span>
+                          </div>
+
+                          <div>
+                              <h3 className='qualification__title'>Design Team Member</h3>
+                              <span className='qualification__subtitle'>Fraternity of Young Innovators Club -FYI<br />VIT Chennai</span>
+                              <div className='qualification__calender'>
+                                  <i className='uil uil-calender-alt'></i>
+                                  Apr 2023- Oct 2023
+                              </div>
+                          </div>
+
+                          
+                      </div>
+
                       {/* TAI */}
 
                       <div className='qualification__data'>
@@ -401,6 +381,27 @@ const Qualification = () => {
                               <span className='qualification__rounder'></span>
                               <span className='qualification__line'></span>
                           </div>
+                      </div>
+
+                      {/* TREKKING */}
+
+                      <div className='qualification__data'>
+                          <div></div>
+                          <div>
+                              <span className='qualification__rounder'></span>
+                              <span className='qualification__line'></span>
+                          </div>
+
+                          <div>
+                              <h3 className='qualification__title'>Design Team Member</h3>
+                              <span className='qualification__subtitle'>Trekking Club<br />VIT Chennai</span>
+                              <div className='qualification__calender'>
+                                  <i className='uil uil-calender-alt'></i>
+                                  Jun 2023 - Present
+                              </div>
+                          </div>
+
+                          
                       </div>
 
                   </div>
