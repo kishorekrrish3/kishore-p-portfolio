@@ -55,8 +55,8 @@ const Data = () => {
                 </svg>
           </h1>
           
-          <h3 className='home__subtitle'>Web Designer</h3>
-          <p className='home__description'>I'm a creative designer based in Chennai, and I'm also a very passionate Frontend Developer, ML and Deep Learning Engineer and a DevOps Enthusiast</p>
+          <h3 className='home__subtitle'>Alpha MLSA</h3>
+          <p className='home__description'>I'm a Web Designer based in Chennai, and I'm also a very passionate Frontend Developer, ML and Deep Learning Engineer and a DevOps Enthusiast</p>
           <a href='#contact' className='button button--flex'>
               Say Hello
               <svg
