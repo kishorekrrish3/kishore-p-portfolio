@@ -46,7 +46,6 @@ I have also recently achieved my Alpha Microsoft Learn Student Ambassador Milest
 
 - Currently pursuing my Bachelor's Degree in Computer Science with specialization in AI and Robotics at VIT Chennai University
 - Graduated my High School from The Optimus Public School
-- 
 
 ## Experience
 
