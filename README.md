@@ -54,7 +54,7 @@ I have hands-on experience in developing user-friendly and responsive web applic
 
 ## Contact Me
 
-📧 Email: your.email@example.com
+📧 Email: [Connect with me through Email](kidkrrish3@gmail.com)
 🌐 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/kishore-p-592962252/)
 🅾 Instagram: [Follow me on Instagram](https://www.instagram.com/kish._.re/)
 🌐 Portfolio: [kishore-p-portfolio.vercel.app](https://kishore-p-portfolio.vercel.app/)
