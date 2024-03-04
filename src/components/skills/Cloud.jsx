@@ -17,23 +17,23 @@ const Cloud = () => {
                       </div>
                   </div>
               
-                  <div className='skills__data'>
+                  {/*<div className='skills__data'>
                       <i className='bx bx-badge-check'></i>
 
                       <div>
                           <h3 className='skills__name'>Amazon AWS</h3>
                           <span className='skills__level'>Intermediate</span>
                       </div>
-                  </div>
+                  </div>*/}
               
-                  <div className='skills__data'>
+                  {/*<div className='skills__data'>
                       <i className='bx bx-badge-check'></i>
 
                       <div>
                           <h3 className='skills__name'>Microsoft Azure</h3>
                           <span className='skills__level'>Beginner</span>
                       </div>
-                  </div>
+                  </div>*/}
               
                   {/* <div className='skills__data'>
                       <i className='bx bx-badge-check'></i>
